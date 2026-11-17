@@ -1,0 +1,8 @@
+{
+  "name": "tasktrack-app",
+  "version": "1.0.0",
+  "description": "Simple task tracker with REST API and web UI",
+  "main": "src/server.js",
+  "scripts": { "start": "node src/server.js" },
+  "license": "MIT"
+}
